@@ -27,6 +27,8 @@ button{
     width: 100px;
     border: 2px solid black;
     display: inline-block;
+    background-image: url("Electronics_image.png");
+    background-size: cover;
 }
 #content{
     height: 617px;
